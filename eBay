@@ -1,3 +1,9 @@
+Objectives
+- Verify that eBay core features (buying, selling, bidding) function as expected.
+- Validate integrations (payments, notifications).
+- Ensure usability, accessibility, and security standards are met.
+- Identify defects through manual and automated testing.
+
 Scope of Testing
 1. Functional Testing
 - User authentication (sign up, login, password recovery).
@@ -11,15 +17,33 @@ Scope of Testing
 - Usability & accessibility.
 - Performance (e.g. page load times).
 3. Regression & Integration Testing
-Notifications (email, push, SMS).
-Cross-browser compatibility.
+- Notifications (email, push).
+- Cross-browser compatibility.
 4. Exploratory Testing
-Randomized buyer/seller user journeys.
+- Randomized buyer/seller user journeys.
 5. Out of Scope
-Backend database
-Internal admin dashboards
-Non-public beta features
+- Backend database
+- Internal admin dashboards
+- Non-public beta features
+
+Test Approach
+- Manual Testing – Functional flows, exploratory sessions, usability.
+- Automated Testing – 10 automated cases covering login, search, cart, checkout, and bidding
+- Exploratory Testing – Ad-hoc scenarios (invalid bids).
 
 Test Environment
-Browsers: Chrome, Safari.
-Devices: Desktop, iOS.
+- Browsers: Chrome, Safari.
+- Devices: Desktop, iOS.
+
+Test Deliverables
+- Test plan (this document).
+- Test cases (manual + automated).
+- Bug reports.
+- Test summary report.
+
+Risks:
+- Payment Failures – failed payments.
+- Bida – timing mismatches
+- Order Tracking Inaccuracies – Incorrect status updates in shipping information.
+- High Traffic / Performance Bottlenecks – Slow page load or system crashes during peak usage.
+- Security Vulnerabilities – Weak password enforcement, session management issues, or exposure of sensitive data.
