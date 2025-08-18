@@ -1,14 +1,18 @@
 # QA-portfolio
 
-1. [eBay](https://github.com/zettlingzettel/qa-portfolio/blob/main/eBay)
+Work In Progress:
+1. eBay <br />
+[Test Plan](https://github.com/zettlingzettel/qa-portfolio/blob/main/1.1.%20eBay-test-plan) <br />
+[Test Cases](https://github.com/zettlingzettel/qa-portfolio/blob/main/1.2.%20eBay-test-cases.md)
+<br />
 
 Future Scope:
 <br />
-2. JetBlue
+3. JetBlue
 <br />
-3. Uber
+4. Uber
 <br />
-4. Khan Academy
+5. Khan Academy
 <br />
-5. CVS
+6. CVS
 <br />
