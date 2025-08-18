@@ -1,18 +1,18 @@
-# QA-portfolio
+## QA-portfolio
 
-Work In Progress:
-1. eBay <br />
-[Test Plan](https://github.com/zettlingzettel/qa-portfolio/blob/main/1.1.%20eBay-test-plan) <br />
-[Test Cases](https://github.com/zettlingzettel/qa-portfolio/blob/main/1.2.%20eBay-test-cases.md)
-<br />
+1. [eBay](https://github.com/zettlingzettel/qa-portfolio/blob/main/eBay)
 
 Future Scope:
 <br />
-3. JetBlue
+2. JetBlue
 <br />
-4. Uber
+3. Uber
 <br />
-5. Khan Academy
+4. Khan Academy
 <br />
-6. CVS
+5. CVS
+<br />
+<br />
+
+TestFlight Apps - Open Source Testing
 <br />
