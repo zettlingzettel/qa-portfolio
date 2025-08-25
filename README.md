@@ -1,6 +1,8 @@
 ## QA-portfolio
 
-1. [eBay](https://github.com/zettlingzettel/qa-portfolio/blob/main/eBay)
+1.1 [eBay Test Plan](https://github.com/zettlingzettel/qa-portfolio/blob/main/1.1.%20eBay-test-plan)
+<br />
+1.2 [eBay Test Cases](https://github.com/zettlingzettel/qa-portfolio/blob/main/1.2.%20eBay-test-cases.md)
 
 Future Scope:
 <br />
