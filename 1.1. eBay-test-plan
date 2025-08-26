@@ -43,7 +43,7 @@ Test Deliverables
 
 Risks:
 - Payment Failures – failed payments.
-- Bida – timing mismatches
+- Bids – timing mismatches
 - Order Tracking Inaccuracies – Incorrect status updates in shipping information.
 - High Traffic / Performance Bottlenecks – Slow page load or system crashes during peak usage.
 - Security Vulnerabilities – Weak password enforcement, session management issues, or exposure of sensitive data.
