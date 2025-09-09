@@ -2,7 +2,7 @@
 
 1.1 [eBay Test Plan](https://github.com/zettlingzettel/qa-portfolio/blob/main/1.1.%20eBay-test-plan)
 <br />
-1.2 [eBay Test Cases](https://github.com/zettlingzettel/qa-portfolio/blob/main/1.2.%20eBay-test-cases.md)
+1.2 [eBay Test Cases - Manual](https://github.com/zettlingzettel/qa-portfolio/blob/main/1.2.%20eBay-test-cases-manual.md)
 <br />
 1.3 [eBay Bug Report](https://github.com/zettlingzettel/qa-portfolio/blob/main/1.3%20eBay%20%20Bug%20Report.md)
 
