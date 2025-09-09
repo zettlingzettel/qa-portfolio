@@ -5,14 +5,13 @@ Objectives
 - Identify defects through manual and automated testing.
 
 Scope of Testing
-1. Functional Testing
+
 - User authentication (sign up, login, password recovery).
 - Search, filters, and product browsing.
-- Product listing creation & management.
 - Bidding & "Buy It Now" workflows.
 - Checkout (payment, shipping, tax calculation).
 - Order tracking, cancellations, refunds.
-- Seller dashboard & communication tools.
+
 2. Non-Functional Testing
 - Usability & accessibility.
 - Performance (e.g. page load times).
@@ -22,6 +21,9 @@ Scope of Testing
 4. Exploratory Testing
 - Randomized buyer/seller user journeys.
 5. Out of Scope
+- Functional Testing:
+-- Product listing creation & management.
+-- Seller dashboard & communication tools.
 - Backend database
 - Internal admin dashboards
 - Non-public beta features
