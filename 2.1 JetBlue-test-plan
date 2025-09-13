@@ -1,1 +1,82 @@
+# ✅ JetBlue QA Test Suite
 
+## Overview
+
+### Core Functional Areas
+- Flight Search, Booking, and Payment
+- Check-In and Boarding Pass Management
+- Flight Status & Notifications
+- TrueBlue Loyalty Program
+- User Authentication & Profile Management
+
+---
+
+## Scope of Testing
+
+### 1. Functional Testing
+- User authentication: Sign up, login, password recovery  
+- Flight search: One-way, round-trip, multi-city  
+- Flight booking & payment: Seat selection, taxes, credit card  
+- Check-in workflows: Web/mobile check-in, boarding pass  
+- Flight status & alerts: Real-time updates  
+- Manage trips: Cancellations, changes, refund flows  
+- TrueBlue loyalty program: Points accrual, redemption
+
+### 2. Non-Functional Testing
+- Usability & Accessibility (WCAG 2.1 compliance)  
+- Performance: Load times for booking, status pages  
+
+### 3. Regression & Integration Testing
+- Notifications: Email, push (reminders, flight updates)  
+- Payment gateway integrations  
+- Cross-browser & cross-device compatibility
+
+### 4. Exploratory Testing
+- Travel journeys  
+- Edge cases (e.g., last-minute bookings)
+
+### 5. Out of Scope
+- Internal airline ops tools (crew, gate agent systems)  
+- Backend flight operations & scheduling  
+- Partner airline (code-share) systems  
+- Non-public beta features
+- Security: Session handling, data encryption
+
+
+---
+
+## Test Approach
+
+- **Manual Testing** – Functional flows, exploratory sessions, usability checks  
+- **Automated Testing** - cases for login, flight search, booking, check-in  
+- **Exploratory Testing** – Ad-hoc testing across user journeys
+
+---
+
+## Test Environment
+
+- **Browsers**: Chrome, Safari  
+- **Devices**: Desktop, iOS, Android  
+- **Apps**: JetBlue iOS & Android  
+- **Languages**: English, Spanish (where supported)
+
+---
+
+## Test Deliverables
+
+- ✅ Test Plan (this document)  
+- ✅ Manual + Automated Test Cases  
+- ✅ Bug Reports  
+- ✅ Test Summary Report
+
+---
+
+## Risks
+
+- ❌ Payment Failures – booking transaction fails  
+- ❌ Incorrect Flight Status – outdated or incorrect alerts  
+- ❌ Performance Bottlenecks – slow response during check-in rush  
+- ❌ TrueBlue Errors – inaccurate loyalty points or redemption issues  
+- ❌ Accessibility Gaps – screen reader or keyboard navigation issues
+
+---
